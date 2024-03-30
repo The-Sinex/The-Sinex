@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @The-Sinex
+- 👋 Hi, I’m @The-Sinex / Sohan Sarkar.
 - 👀 I’m interested in Gaming.
 - 🌱 I’m currently learning C.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on ?
+- 📫 To reach me- instagram.
 
 <!---
 The-Sinex/The-Sinex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
